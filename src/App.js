@@ -1,3 +1,4 @@
+import React from "react";
 import './App.css';
 // import PageInputState from './Components/state'; //useState
 // import PageInputEffect from './Components/effect'; //useEffect
